@@ -6,8 +6,8 @@ This includes things I do to better myself to reach my career goals.
 * Practice Problem 1: Create a class called datatype that has the size (int bytes and bits), isSigned boolean, min and max values that datatype can hold. Here we use classes and templates to implement this class.
 * Solution: cpp/basics/datatype-wrapper.cpp
 ## 1st March, 2026
-* 217. Duplicate Value
-* 268. Missing Numbers
+* [217]. Duplicate Value
+* [268]. Missing Numbers
 ## 3rd March, 2026
-* 448. Find all numbers disappeared in the array
-* 1. Two Sum
+* [448]. Find all numbers disappeared in the array
+* [1]. Two Sum
