@@ -11,3 +11,8 @@ This includes things I do to better myself to reach my career goals.
 ## 3rd March, 2026
 * [448]. Find all numbers disappeared in the array
 * [1]. Two Sum
+## 14th March 2026
+* [1365]. How many numbesr are smaller than the current number
+## 15th March 2026
+* [1266]. Minimum Time visiting all points
+* [54]. Spiral Matrix
